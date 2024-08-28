@@ -23,12 +23,12 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: ": Adotar uma política de proteção rígida de áreas naturais, preservando grandes áreas de florestas e parques nacionais",
-                afirmacao: "Você limitou o desenvolvimento econômico e uso de recursos naturais"
+                texto: "Aperte para eliminar o uso de combustiveis fosseis em todo o mundo",
+                afirmacao: "crise energetica global e colapso economico"
             },
             {
-                texto: "Investir em uma vasta rede de transporte público elétrico e infraestrutura para bicicletas",
-                afirmacao: "Você mudou o hábito de muitos e gerou muitos custos para iniciar o projeto"
+                texto: "acabe com todo o desmatamento",
+                afirmacao: "escassez de recursos, fome e problemas economicos"
             }
         ]
 
@@ -37,12 +37,12 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Adotar um sistema global de inteligência artificial (IA) para otimizar a gestão de recursos naturais e prever desastres ambientais",
-                afirmacao: "Você gerou panico global sobre a segurança dos dados de todos"
+                texto: "desenvolva uma IA superinteligente",
+                afirmacao: "perda massiva de empregos e aumento da desigualdade"
             },
             {
-                texto: " Implementar uma política de automação em larga escala para indústrias e serviços, melhorando a eficiência e reduzindo os custos operacionais",
-                afirmacao: "Você gerou grande desemprego e aumentou a desigualdade econômica"
+                texto: "garanta total privacidade online",
+                afirmacao: "dificulta a aplicação da lei e o combate a crimes digitais"
             }
         ]
 
