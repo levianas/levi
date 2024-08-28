@@ -9,12 +9,12 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Implementar um programa universal de saúde pública com cobertura para todos, porém aumentando os imposots",
-                afirmacao: "Você melhorou a saúde publica, mas os impostos aumentaram em 5x"
+                texto: "implementar renda universal",
+                afirmacao: "risco de aumento da inflação e dependencia governamental"
             },
             {
-                texto: "Introduzir um sistema de renda básica universal que garanta uma quantia mínima de dinheiro a todos os cidadãos",
-                afirmacao: "Você desestimulou o trabalho e gerou preocupações fiscais a longo prazo"
+                texto: "alcançar igualdade de genero em todos os aspectos",
+                afirmacao: "conflitos culturais e resistencia em sociedades tradicionais"
             }
         ]
 
